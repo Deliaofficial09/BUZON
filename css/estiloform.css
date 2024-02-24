@@ -1,0 +1,86 @@
+body{
+    font-family:calibri;
+    background-color: #fffdfd;
+    box-sizing: border-box;
+   
+    
+    
+   
+}
+        
+      
+        form {
+            background-color: rgb(1, 1, 1);
+            border-radius: 55px;
+            color:#eeeeee;
+            font-size: 18px;
+            padding: 15px;
+            margin: auto;
+            width: 400px;
+            
+            
+
+            }
+
+
+            h1{
+                outline: none;
+                border: 0;
+                width: 450px;
+                text-align: center; 
+
+            }
+
+            .deli{
+                border: solid 1px #000000;
+                padding: 10px;
+                width: 100%;
+                border-radius: 10px;
+               
+               
+
+            }
+
+            .deli:focus{
+                background-color: #cbc108;
+
+            }
+
+            .center-content{
+                text-align: center;
+                height: 50px;
+                font-size: 20px;
+                text-decoration: none;
+                background: #cbc108;
+                padding: 10px;
+                
+            }
+
+
+            .borrar{
+                text-align: center;
+                height: 50px;
+                font-size: 20px;
+                text-decoration: none;
+                background: #cbc108;
+                padding: 10px;
+                font-family:calibri;
+        
+            }
+
+
+            .nav__img{
+                text-align: center;
+            }
+         
+
+
+
+
+
+
+
+
+
+        
+           
